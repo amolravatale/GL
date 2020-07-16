@@ -1,0 +1,13 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="MDVP:Shimmer(dB) <= -0.74\ngini = 0.43\nsamples = 16\nvalue = [7, 15]\nclass = 1", fillcolor="#95cbf1"] ;
+1 [label="Shimmer:APQ5 <= -1.02\ngini = 0.35\nsamples = 4\nvalue = [7, 2]\nclass = 0", fillcolor="#eca572"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.0\nsamples = 1\nvalue = [0, 2]\nclass = 1", fillcolor="#399de5"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 3\nvalue = [7, 0]\nclass = 0", fillcolor="#e58139"] ;
+1 -> 3 ;
+4 [label="gini = 0.0\nsamples = 12\nvalue = [0, 13]\nclass = 1", fillcolor="#399de5"] ;
+0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
