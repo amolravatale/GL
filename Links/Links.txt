@@ -1,0 +1,35 @@
+
+NLP - https://stackoverflow.com/questions/8897593/how-to-compute-the-similarity-between-two-text-documents
+
+https://spacy.io/usage/vectors-similarity
+
+*****************NLP algorithm comparisons*****************
+https://github.com/massanishi/document_similarity_algorithms_experiments
+*******************************************************
+
+https://www.tensorflow.org/hub/tutorials/tf2_text_classification
+
+
+--------Pyhton GIT Hub problems----------
+https://github.com/TheAlgorithms/Python
+https://github.com/MTrajK/coding-problems
+https://github.com/zhiwehu/Python-programming-exercises
+https://github.com/rasbt/python_reference
+https://github.com/joaoventura/full-speed-python
+https://github.com/trekhleb/learn-python
+https://github.com/jerry-git/learn-python3
+
+
+***********Random links ***********
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+https://stackoverflow.com/questions/48692500/fit-transform-on-training-data-and-transform-on-test-data
+https://analyticsindiamag.com/hands-on-tutorial-on-automatic-machine-learning-with-h2o-ai-and-automl/
+https://towardsdatascience.com/5-essential-pandas-tricks-you-didnt-know-about-2d1a5b6f2e7
+https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c
+https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+*************************************
+
+***********for PCA***********************
+https://datascienceplus.com/understanding-the-covariance-matrix/
+https://www.mathsisfun.com/algebra/eigenvalue.html
+***************************
