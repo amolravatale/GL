@@ -33,3 +33,7 @@ https://towardsdatascience.com/support-vector-machine-introduction-to-machine-le
 https://datascienceplus.com/understanding-the-covariance-matrix/
 https://www.mathsisfun.com/algebra/eigenvalue.html
 ***************************
+
+
+************Queries******************
+https://stackoverflow.com/questions/54511542/what-is-the-use-of-predict-method-in-kmeans-implementation-of-scikit-learn
