@@ -38,6 +38,25 @@ https://www.mathsisfun.com/algebra/eigenvalue.html
 ************Queries******************
 https://stackoverflow.com/questions/54511542/what-is-the-use-of-predict-method-in-kmeans-implementation-of-scikit-learn
 
+---google drive link 
+https://drive.google.com/drive/folders/12V8U791SCf2MFXPBdmfD-URdhLmSKw1i
+
+----
+https://ai.stanford.edu/
+https://engineering.linkedin.com/
+
+------- Reccomondation System
+https://drive.google.com/drive/folders/1PN2qw-4QmqaZL_13wF8v8_WwJLemj5g3?usp=sharing
+
+https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system
+https://towardsdatascience.com/market-basket-analysis-using-associative-data-mining-and-apriori-algorithm-bddd07c6a71a
+https://engineering.linkedin.com/recommender-systems/browsemap-collaborative-filtering-linkedin
+
+
+**********************Gradient Descent ******************
+https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html
+
+
 
 ---google drive link
 https://drive.google.com/drive/folders/12V8U791SCf2MFXPBdmfD-URdhLmSKw1i
