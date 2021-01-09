@@ -60,3 +60,11 @@ https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.h
 
 ---google drive link
 https://drive.google.com/drive/folders/12V8U791SCf2MFXPBdmfD-URdhLmSKw1i
+
+
+NLP 
+https://stackoverflow.com/questions/29381505/why-does-word2vec-use-2-representations-for-each-word
+
+https://www.analyticsvidhya.com/blog/2020/02/quick-introduction-bag-of-words-bow-tf-idf/
+
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
