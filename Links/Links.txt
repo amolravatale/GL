@@ -68,3 +68,11 @@ https://stackoverflow.com/questions/29381505/why-does-word2vec-use-2-representat
 https://www.analyticsvidhya.com/blog/2020/02/quick-introduction-bag-of-words-bow-tf-idf/
 
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+
+CNN 
+https://www.deeplearningbook.org/contents/convnets.html
+https://github.com/janishar/mit-deep-learning-book-pdf
+https://www.deeplearningbook.org/lecture_slides.html
+https://www.deeplearningbook.org/
+
+https://keras.io/api/applications/

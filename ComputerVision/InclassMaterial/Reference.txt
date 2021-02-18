@@ -1,0 +1,4 @@
+https://www.deeplearningbook.org/contents/convnets.html
+https://github.com/janishar/mit-deep-learning-book-pdf
+
+https://www.deeplearningbook.org/
