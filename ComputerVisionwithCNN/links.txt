@@ -1,0 +1,14 @@
+Deep Learning
+https://www.deeplearningbook.org/
+Filtering
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_filtering/py_filtering.html#filtering
+Image Gradient
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_gradients/py_gradients.html#gradients
+Histogram Equalization 1
+https://olympus.greatlearning.in/courses/9425/modules/items/358698
+Histogram Equalization 2
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_histograms/py_histogram_equalization/py_histogram_equalization.html#histogram-equalization
+Introduction to CNN
+https://olympus.greatlearning.in/courses/9425/modules/items/358700
+Book on Computer Vision
+http://szeliski.org/Book/
