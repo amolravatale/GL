@@ -79,3 +79,7 @@ https://keras.io/api/applications/
 
 https://scikit-learn.org/stable/modules/multiclass.html
 
+---E2E ML building
+https://tech.instacart.com/building-a-data-science-product-in-10-days-d2f4688567b0
+
+
