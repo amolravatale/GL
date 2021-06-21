@@ -1,0 +1,3 @@
+https://builtin.com/data-science/how-build-neural-network-keras
+https://www.kaggle.com/drscarlat/imdb-sentiment-analysis-keras-and-tensorflow
+https://towardsdatascience.com/binary-classification-of-imdb-movie-reviews-648342bc70dd
