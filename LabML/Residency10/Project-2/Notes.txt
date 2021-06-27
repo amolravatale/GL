@@ -1,0 +1,2 @@
+https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
+https://towardsdatascience.com/sentence-classification-using-bi-lstm-b74151ffa565
