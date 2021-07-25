@@ -1,0 +1,33 @@
+
+Pls note : There should be a maximum of 2 Presenters. 
+Too many presenters in a span of only 20mins tends to confuse the audience.
+
+Slides Format
+1920x1080 pixels at a 16:9 aspect ratio
+Don't put anything on corners
+Use font size of 34 points or bigger
+Don't keep more than one point of focus on one slide. It's difficult to focus on multiple points or things at a time.
+Choose a common sans serif font (like Helvetica or Verdana)
+Only use images that you own or have permission to use. If you use an image under a Creative Commons(CC) license, cite the source at the bottom of your Slide.
+10 slides maximum excluding title slide - to be presented in 20 mins +5 mins project/product Demo (can be a video recording)+ 5 min Q/A
+11th slide for Q/A
+1 - Problem definition
+2.- MarketGap references - What's already there and where is the gap? - 1 or 2 well known references
+3&4 - Data sources and high level architecture for the product
+5&6 - Modelling and Mathematical justification if needed
+7&8 - Training/Testing and result description
+9  - Inferences
+10 - MVP - Effort and Capital requirements  -- ROI - 2-5 years
+Q/A - 5 min (11th Slide)
+
+A sample presentation has been attached to give the impression of slides expected.
+
+Practice and create a clean script.
+Time yourself - It's very important!
+
+Planned Rehearsals and Review -  You want to showcase the best presentation of the awesome work you have done. You can think of this as TED talks preparation!
+We will plan 2 rehearsals well ahead of the session and provide feedback.
+
+Feel free to reach out to me for any more queries.
+
+All the best !!!
