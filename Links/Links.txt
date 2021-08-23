@@ -101,3 +101,6 @@ How backpropogations works
 http://neuralnetworksanddeeplearning.com/chap2.html
 
 The handbook of Brain Theory and Neural Network
+
+---- Dice, IOU co-efficients
+https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2
