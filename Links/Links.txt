@@ -32,6 +32,8 @@ https://towardsdatascience.com/support-vector-machine-introduction-to-machine-le
 ***********for PCA***********************
 https://datascienceplus.com/understanding-the-covariance-matrix/
 https://www.mathsisfun.com/algebra/eigenvalue.html
+4) https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
 ***************************
 
 
@@ -75,6 +77,12 @@ https://github.com/janishar/mit-deep-learning-book-pdf
 https://www.deeplearningbook.org/lecture_slides.html
 https://www.deeplearningbook.org/
 
+https://www.machinecurve.com/index.php/2018/12/07/convolutional-neural-networks-and-their-components-for-computer-vision/
+https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+https://cs231n.github.io/convolutional-networks/#pool
+
+https://cs231n.github.io/
+
 https://keras.io/api/applications/
 
 https://scikit-learn.org/stable/modules/multiclass.html
@@ -104,3 +112,16 @@ The handbook of Brain Theory and Neural Network
 
 ---- Dice, IOU co-efficients
 https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2
+
+what is Image mask
+https://www.quora.com/What-is-image-masking-1
+https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
+https://www.kaggle.com/vbookshelf/simple-cell-segmentation-with-keras-and-u-net
+https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+https://analyticsindiamag.com/my-experiment-with-unet-building-an-image-segmentation-model/
+https://tuatini.me/practical-image-segmentation-with-unet/
+https://glassboxmedicine.com/2020/01/21/segmentation-u-net-mask-r-cnn-and-medical-applications/
+
+**************Books**************
+Competitive Programmer’s Handbook — Antti Laaksenon
+Automate the Boring Stuff with Python — Al Sweigart

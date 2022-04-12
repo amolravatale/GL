@@ -1,0 +1,7 @@
+https://towardsdatascience.com/building-a-facial-recognition-model-using-pca-svm-algorithms-c81d870add16
+
+https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
+
+- Tensorflow model
+https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2
